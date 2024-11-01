@@ -8,7 +8,7 @@ layout: default
 
 ## Find me on
 
-[LinkedIn](https://www.linkedin.com/in/sriharsha-ayyagary-090103b), [GitHub](https://github.com/sriharshaahelsinki)
+[LinkedIn](https://www.linkedin.com/in/sriharsha-ayyagary-090103b), [GitHub](https://github.com/sriharshaahelsinki), [CV](https://www.overleaf.com/read/yjgtpmmjdgct#b3f6e7)
 
 ## Contact
 
